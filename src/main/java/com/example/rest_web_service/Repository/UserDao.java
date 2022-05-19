@@ -1,4 +1,4 @@
-package com.example.rest_web_service.Model;
+package com.example.rest_web_service.Repository;
 
 import com.example.rest_web_service.Model.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
